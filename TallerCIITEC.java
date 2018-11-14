@@ -2,7 +2,7 @@
 package tallerciitec;
 /**
  *
- * @author antonio072
+ * @author 16030581lupita
  * Clase de Java creada para el taller de Git y Github
  */
 public class TallerCIITEC {
@@ -30,6 +30,7 @@ public class TallerCIITEC {
         System.out.println(e);
         System.out.println(f);
         System.out.println(g);
+        System.out.println("Hola mundo"
     }
     
 }
