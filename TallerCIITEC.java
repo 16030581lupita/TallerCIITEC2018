@@ -30,7 +30,7 @@ public class TallerCIITEC {
         System.out.println(e);
         System.out.println(f);
         System.out.println(g);
-        System.out.println("Hola mundo"
+        System.out.println("Hola mundo");
     }
     
 }
